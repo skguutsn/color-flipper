@@ -1,0 +1,26 @@
+a{
+    text-decoration: none;
+    color : rgb(102, 91, 70);
+}
+.nav-item{
+    background-color: rgb(#bcdfe7);
+}
+.btn{
+    color:wheat;
+    background-color: black;
+    size: 4em;
+    transition: all 0.3s ease;
+}
+.pa{
+    margin:1%;
+    padding: 1em;
+}
+.s{
+    margin: 2%;
+    color: rgb(111, 123, 175);
+}
+.sp{
+    margin:1%;
+    padding: 1em;
+    color: rgb(111, 123, 175);
+}
